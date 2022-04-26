@@ -11,6 +11,9 @@
                 }elseif($age>=19){
                         $result = "You are Young ";
                         return $result ;
+                }else{
+                        $result = "In terms of age - values ​​are never real."
+                        return $result;
                 }
         }
         echo Current_age_type(15);
