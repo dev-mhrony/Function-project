@@ -12,7 +12,7 @@
         $average_mark = $toral_mark / 4 ;
     
     
-        // ===================== If Formula and Elseif Formula Start =======================
+        // ===================== If Formula and Elseif Formula Start ========================
     
     
 
