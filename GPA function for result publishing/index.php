@@ -4,6 +4,7 @@
 
     function GPAcalculator ($subject_A_mark,$subject_B_mark,$subject_C_mark,$subject_D_mark){
 
+        //total mark
     
         $toral_mark = $subject_A_mark + $subject_B_mark +  $subject_C_mark + $subject_D_mark ;
     
